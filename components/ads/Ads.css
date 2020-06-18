@@ -1,0 +1,34 @@
+.create-link{
+    color: #ef5466;
+    font-size: 1.5em;
+}
+
+.create-link:hover{
+    text-decoration: none;
+    font-weight: bold;
+    color: #ef5466;
+}
+
+.card:hover{
+    cursor: pointer;
+}
+
+.img-card{
+    height: 250px;
+}
+
+.btn-edit{
+    width: 100%;
+    color: white;
+    font-size: 1.25em;
+    width: 100%;
+    padding: 0.25em 1em;
+    border: 2px solid palevioletred;
+    border-radius: 3px;
+    background-color: palevioletred;
+}
+
+.btn-edit:hover{
+    color: palevioletred;
+    background-color: transparent;
+}
